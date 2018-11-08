@@ -101,4 +101,9 @@ yarn-error.log*
 *.iml
 *.ipr
 .idea/
-be/.idea/
+target/
+*.cmd
+be/.mvn
+be/.idea/modules.xml
+be/.idea/misc.xml
+be/.idea/workspace.xml
