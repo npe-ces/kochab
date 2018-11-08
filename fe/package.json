@@ -1,0 +1,30 @@
+{
+  "name": "kochab",
+  "version": "1.0.0",
+  "description": "kochab.io",
+  "main": "index.js",
+  "repository": "https://github.com/npe-ces/kochab.git",
+  "author": "dev@kochab.io",
+  "license": "GPL",
+  "dependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "react-scripts": "2.1.1",
+    "twit": "^2.2.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
